@@ -1,5 +1,5 @@
 
-# Hi, I'm  Bukenya Kizza Roland 👋🏼 👨🏻‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Namutebi Mary Brenda👋🏼 👨🏻‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
 <tr>
